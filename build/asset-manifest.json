@@ -1,20 +1,13 @@
 {
   "files": {
-    "main.css": "/Bcodegram/static/css/main.9688aae9.chunk.css",
-    "main.js": "/Bcodegram/static/js/main.01d285ba.chunk.js",
-    "main.js.map": "/Bcodegram/static/js/main.01d285ba.chunk.js.map",
-    "runtime-main.js": "/Bcodegram/static/js/runtime-main.7d8cb78c.js",
-    "runtime-main.js.map": "/Bcodegram/static/js/runtime-main.7d8cb78c.js.map",
-    "static/js/2.63c26b1a.chunk.js": "/Bcodegram/static/js/2.63c26b1a.chunk.js",
-    "static/js/2.63c26b1a.chunk.js.map": "/Bcodegram/static/js/2.63c26b1a.chunk.js.map",
+    "main.css": "/Bcodegram/static/css/main.cf2d6769.css",
+    "main.js": "/Bcodegram/static/js/main.0e475036.js",
     "index.html": "/Bcodegram/index.html",
-    "static/css/main.9688aae9.chunk.css.map": "/Bcodegram/static/css/main.9688aae9.chunk.css.map",
-    "static/js/2.63c26b1a.chunk.js.LICENSE.txt": "/Bcodegram/static/js/2.63c26b1a.chunk.js.LICENSE.txt"
+    "main.cf2d6769.css.map": "/Bcodegram/static/css/main.cf2d6769.css.map",
+    "main.0e475036.js.map": "/Bcodegram/static/js/main.0e475036.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.7d8cb78c.js",
-    "static/js/2.63c26b1a.chunk.js",
-    "static/css/main.9688aae9.chunk.css",
-    "static/js/main.01d285ba.chunk.js"
+    "static/css/main.cf2d6769.css",
+    "static/js/main.0e475036.js"
   ]
 }
