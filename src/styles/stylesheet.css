@@ -109,7 +109,7 @@ html {
     margin: 20px auto;
     display: table;
     padding: 40px;
-    background: url("https://www.svgrepo.com/download/489612/sign-plus-circle.svg") center no-repeat;
+    background: url("../images/plus-circle.svg") center no-repeat;
     background-size: contain;
     border: none;
    }
